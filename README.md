@@ -1,0 +1,11 @@
+Q. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+A. Using CRUD allows you to write maintainable code that can be sued dynamically with different projects if build correctly. I was able to use the .py file from Project 1 and seamlessly use it in Project 2, allowing me to not have to rewrite all that code again. Working this ways saves lots of time when you can import and plugin in already created files for future use.
+
+Q. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+A. I approach problems as a computer scientist by going slow and tackling one thing at a time. Coding isn't something you can quickly put together without testing along the way. You have to incrementally test each bit of code you add to make sure it doesn't break something else that you've done. It takes time and dedication and attention to detail, but it is worth it in the end to create something great.
+
+Q. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+A. Computer scientists essentially create solutions to problems. In the case of Grazioso Salvare, they wanted data on the different breeds of animals they had but they didn't have a system in place to easily read or access that data in a user friendly way. Then we came in and provided them a solution to their problem and can now see all of their data in a nice table with graphs and maps. In this day and age, technology is at the epicenter of almost everything, whether we like it or not. As a computer scientist we can strive to use our knowledge of skill to create for the better.
